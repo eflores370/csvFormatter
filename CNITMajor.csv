@@ -1,26 +1,3 @@
-CNIT;103;Computer Hardware
-CNIT;131;Internet Basics and Beginning HTML
-CNIT;120;Network Security
-CNIT;106;Introduction to Networks
-CNIT;201C;Introduction to Cisco Networks
-CNIT;104;Operating Systems Technologies
-CNIT;105;IT Customer Support
-CNIT;401;Windows 10 Technical Support
-CNIT;103L;Computer Hardware Lab
-CNIT;105L;Computer Technical Support
-CNIT;132;Intermediate HTML and CSS
-CNIT;133;JavaScript, jQuery, AJAX
-CNIT;134;Server Side Technologies for the Web
-CNIT;121;Computer Forensics
-CNIT;122;Firewalls
-CNIT;123;Ethical Hacking & Network Defense
-CNIT;107;Wireless LANs
-CNIT;113;Technology of Smartphones & Mobile Devices
-CNIT;108;Wireless Networks, Advanced
-CNIT;202C;Routing and Switching Essentials
-CNIT;203C;Scaling Networks
-CNIT;204C;Connecting Networks
-CNIT;411;Administering Windows Server
-CNIT;412;Configuring Advanced Windows Server
-CNIT;401;Windows 10 Technical Support
-CNIT;415;SQL Server Administration
+CNIT	131	Internet Basics and Beginning HTML
+CNIT	132	Intermediate HTML and CSS
+CNIT	133	JavaScript, jQuery, AJAX
