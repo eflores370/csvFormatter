@@ -3,7 +3,7 @@ import re
 import sys
 import requests
 
-classArray = ["CNIT", "MATH", "CS"]
+classArray = ["CNIT", "MATH", "CS","VMD","LIBR"]
 
 def getFile():
 	print("======================")
@@ -42,11 +42,11 @@ def getPDF():
 # Gets pdf document from URL
 getPDF()
 
-os.system("pdf2txt.py pdf/temp.pdf")
+os.system("pdf2txt.py pdf/temp.pdf > txt/temp.txt")
 
 # Gets fileName from the user
-fileName = getFile()
-
+# fileName = getFile()
+fileName = "temp.txt"
 
 writeOutput(fileName)
 
