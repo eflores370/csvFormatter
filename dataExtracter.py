@@ -18,11 +18,7 @@ for line in file:
 		print(line)
 		values = line.split("\xad")
 		left = values[0].strip().split("\xa0")
-		print("++++++++++++++")
-		print(left[0])
-		print(left[1])
-		print(values[1].strip())
-
+		
 		writeFile.write(left[0] + ";")
 		writeFile.write(left[1] + ";")
 		writeFile.write(values[1].strip() + "\n")
