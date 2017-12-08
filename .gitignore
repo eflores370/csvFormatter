@@ -6,3 +6,6 @@ ComputerScienceMajor.txt
 output.txt
 output.csv
 pdf2txt.py
+csv/
+pdf/
+txt/
