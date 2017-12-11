@@ -1,155 +1,89 @@
-4/20/2017
+4/18/2017
 
-Program Outline Report: Computer Networking and Information Technology AS
+Program Outline Report: Administration of Justice AS
 
-Computer Networking and Information Technology AS Major ­ Active
+Administration of Justice AS Major ­ Active
 
-Department: Computer Networking & Information Technology
-Approval: September 2016
-Effective Semester: Spring 2017
-The Associate of Science degree with a major in Computer Networking and Information Technology (CNIT)
-provides students with a solid foundation of skills, knowledge and hands on experience with the core areas of
-the field of Computer Networking and Information Technology as well as current trends and technologies used in
-the computer industry. The topics covered in this major include Computer Hardware, Computer Network
-Administration, Network Security and the basics of Internet and Web development, as well as an option in one
-of the following areas: Computer Technical Support, Internet and Web Development Techniques, Network
-Security, Wireless Networks, Cisco Networking, or Microsoft Windows Administration. This degree qualifies
-students for employment in entry­level network administration, computer technical support or web development
-positions.
+Department: Administration of Justice and Fire Science
+Approval: March 2013
+
+The course of study is designed so that students may satisfy the requirements for graduation from the College.
+Students who satisfy the graduation requirements and complete the units noted below receive the Associate in
+Science Degree in Administration of Justice.
+
 Learning Outcomes
 Upon completion of this program, students will be able to:
 
-Evaluate computer hardware components and design a functional computer system.
-Demonstrate the use of network devices, network operating systems and networking models and their
-related protocols.
-Develop and maintain a basic web site using web development industry standards.
-Explain the basics of network security systems.
-Demonstrate competency in one of the required optional areas (see program description).
+Analyze crime and contemporary law enforcement Issues.
+Analyze relationships and interactions between citizens and the criminal justice system.
+Examine the pre­trial, trial, and post­trial elements of the criminal justice system to ensure constitutional
+and statutory requirements are maintained consistent with public safety standards
+Develop and demonstrate the ability to apply the theory, techniques and knowledge gained in the total
+course work of the law enforcement curriculum.
+Demonstrate the ability to apply the legal, investigative, and written skills acquired in the administration
+of justice program.
 
-Optional competency areas:
-
-Computer Technical Support: Troubleshoot and repair defective computer systems
-Internet and Web Development Techniques: Recognize and use appropriate web development
-technologies to promote or enhance the work environment
-Network Security: Develop strategies for network defense using firewalls, routers, switches, antivirus,
-anti­spyware tools, and hacking techniques
-Wireless Networks: Evaluate components to prepare and install wireless networks
-Cisco Networking: Configure and operate Cisco Local and Wide Area Networking hardware and software
-Microsoft Windows: Install and support a Microsoft Windows networking environment including Windows
-Server, SQL Server database and Windows Desktop edition
-
-Assuming students start this AS with transfer­level math and English eligibility, the minimum time for
+Assuming students start this AS with transfer‐level math and English eligibility, the minimum time for
 completion is 4 semesters. Completion time will vary based on student preparation and number of units
-completed per semester.
-
-Courses Required for the Major in Computer Networking and Information Technology AS
+completed per semester. 
+Courses Required for the Major in Administration of Justice AS
 Course
-Core courses:
-CNIT 103 ­ Computer Hardware
-CNIT 131 ­ Internet Basics and Beginning HTML
-CNIT 120 ­ Network Security
-
-Choose one of the following network courses:
-CNIT 106 ­ Introduction to Networks
-CNIT 201C ­ Introduction to Cisco Networks
-
-Choose one of the following options
-OPTION 1: Computer Technical Support
-CNIT 104 ­ Operating Systems Technologies
-CNIT 105 ­ IT Customer Support
-CNIT 401 ­ Windows 10 Technical Support
-CNIT 103L ­ Computer Hardware Lab
-
-Total:
-
-Total:
+Choose 21 units from the following:
+ADMJ 51 ­ Juvenile Procedures
+ADMJ 52 ­ Concepts of Criminal Law
+ADMJ 53 ­ Legal Aspects of Evidence
+ADMJ 54 ­ Principles and Procedures of the Justice System
+ADMJ 57 ­ Introduction to the Administration of Justice
+ADMJ 59 ­ Organized Crime
+ADMJ 62 ­ Criminal Investigation
+ADMJ 63 ­ Fingerprints
+ADMJ 64 ­ The Evolution of Community Relations the Community Policing Era
+ADMJ 65 ­ Narcotic Investigations
+ADMJ 66 ­ Forensic Evidence
+ADMJ 67 ­ Terrorism and Counterterrorism
+ADMJ 68 ­ Criminal Justice Report Writing
+ADMJ 70A ­ Patrol Procedures
+ADMJ 80 ­ Introduction to Probation and Parole
+ADMJ 85 ­ P.C. 832 Arrest and Control Certification
 
 Units
 
 3.00
 3.00
 3.00
-9.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+3.00
+21.00
 
-3.00
-3.00
-3.00
-
-3.00
-3.00
-3.00
-1.00
-
-https://ccsf.curricunet.com/Report/GetReport?entityId=584&entityType=Program&reportId=29
-
-1/2
-
-4/20/2017
-
-or
-
-Program Outline Report: Computer Networking and Information Technology AS
-
-CNIT 105L ­ Computer Technical Support
-OPTION 2: Internet and Web Development Techniques
-CNIT 132 ­ Intermediate HTML and CSS
-CNIT 133 ­ JavaScript, jQuery, AJAX
-CNIT 134 ­ Server Side Technologies for the Web
-OPTION 3: Network Security
-CNIT 121 ­ Computer Forensics
-CNIT 122 ­ Firewalls
-CNIT 123 ­ Ethical Hacking & Network Defense
-OPTION 4: Wireless Networks
-CNIT 107 ­ Wireless LANs
-CNIT 113 ­ Technology of Smartphones & Mobile Devices
-CNIT 108 ­ Wireless Networks, Advanced
-OPTION 5: Cisco Networking
-CNIT 202C ­ Routing and Switching Essentials
-CNIT 203C ­ Scaling Networks
-CNIT 204C ­ Connecting Networks
-OPTION 6: Microsoft Windows
-CNIT 411 ­ Administering Windows Server
-CNIT 412 ­ Configuring Advanced Windows Server
-CNIT 401 ­ Windows 10 Technical Support
-
-or
-
-CNIT 415 ­ SQL Server Administration
-
-1.00
-
-3.00
-3.00
-3.00
-
-3.00
-3.00
-3.00
-
-3.00
-3.00
-3.00
-
-3.00
-3.00
-3.00
-
-3.00
-3.00
-3.00
-
-3.00
+Recommended additional coursework
+ASIA 20; F SC 17, F SC 62; LALS 10, 11; LBCS 94D; PE 29; PHIL 12A, 40; POLS 1, 12,43;
+PSYC 1, 4, 22, 23; SOC 1, 2, 30; SPCH 12; CDEV 100; IDST 47; HLTH 38, HLTH 48; WOMN
+54, and 3 units from CDEV 72, 78, 101; HLTH 9A, 63, 73, 76, 83, 90C, 97, 103, 116; IDST 12;
+LBCS 81, LERN 63, 68; PSYC 15, 61, 62, 63; SOC 51; TH A 161, WKEX 197, WOMN 20,
+WOMN 55 (part of the Trauma Prevention and Recovery Certificate); IDST 80A, C, D, E, F, G
+and 81A, B (part of the Certificate of Accomplishment in Diversity and Social Justice)
 
 Total:
 
-9.00 ­ 10.00
-21.00 ­ 22.00
-Generated on: 4/20/2017 5:22:31 PM
+Generated on: 4/18/2017 9:01:52 AM
+
+https://ccsf.curricunet.com/Report/GetReport?entityId=2&entityType=Program&reportId=29
+
+1/1
 
 Total:
 
-https://ccsf.curricunet.com/Report/GetReport?entityId=584&entityType=Program&reportId=29
-
-2/2
+21.00
 
 

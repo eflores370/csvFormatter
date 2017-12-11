@@ -3,7 +3,7 @@ import re
 import sys
 import requests
 
-classArray = ["CNIT", "MATH", "CS","VMD","LIBR"]
+classArray = ["CNIT", "MATH", "CS","VMD","LIBR", "ADMJ", "ENGN", "PHYC"]
 
 def askUser():
 	while True:
@@ -51,14 +51,14 @@ def getPDF():
 	with open('temp.pdf', 'wb'):
 		wf.write(r.content)
 
-	return "temp.txt"
+	return "temp.pdf"
 
 
-fileName = askUser()
+PDFfileName = askUser()
 
-os.system("pdf2txt.py " + fileName + " > temp.txt")
+os.system("pdf2txt.py " + PDFfileName + " > temp.txt")
 
-writeOutput(fileName)
+writeOutput("temp.txt")
 
 print("Finished!")		
 
