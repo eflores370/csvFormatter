@@ -5,23 +5,34 @@ import requests
 
 classArray = ["CNIT", "MATH", "CS","VMD","LIBR"]
 
+def askUser():
+	while True:
+		userFile = input("Download PDF(1) or Local File(2): ")
+		if not (userFile == "1") and not (userFile == "2"):
+			print("Error: Please enter 1 or 2")
+		elif userFile == "1":
+			return getPDF()
+		elif userFile == "2":
+			return getFile()
+
+
 def getFile():
 	print("======================")
 	print("1. CNIT Major")
 	print("2. CS Major")
 	fileName = input("File Name/Number: ")
 	if fileName == "1":	
-		fileName = "CNITMajor.txt"
+		fileName = "CNITMajor.pdf"
 	elif fileName == "2":
-		fileName = "ComputerScienceMajor.txt"
+		fileName = "ComputerScienceMajor.pdf"
 	return fileName
 
 def writeOutput(fileName):
 # Open Write to file
-	writeFile = open("csv/output.csv", "w+")
+	writeFile = open("output.csv", "w+")
 	for item in classArray:
 		# Open Text file
-		file = open("txt/"+fileName,"r")
+		file = open(fileName,"r")
 		for line in file:
 			if(re.search('^' + re.escape(item), line)):
 				values = line.split("\xad")
@@ -31,25 +42,26 @@ def writeOutput(fileName):
 				writeFile.write(left[1] + "\t")
 				writeFile.write(values[1].strip() + "\n")
 
+# Pulls PDF from web
 def getPDF():
-	wf = open("pdf/temp.pdf", 'wb')
+	wf = open("temp.pdf", 'wb')
 	url = input("Enter PDF url: ")
 	r = requests.get(url, stream = True)
 
-	with open('pdf/temp.pdf', 'wb'):
+	with open('temp.pdf', 'wb'):
 		wf.write(r.content)
 
-# Gets pdf document from URL
-getPDF()
+	return "temp.txt"
 
-os.system("pdf2txt.py pdf/temp.pdf > txt/temp.txt")
 
-# Gets fileName from the user
-# fileName = getFile()
-fileName = "temp.txt"
+fileName = askUser()
+
+os.system("pdf2txt.py temp.pdf > temp.txt")
 
 writeOutput(fileName)
 
 print("Finished!")		
+
+os.system("cat output.csv")
 
 
