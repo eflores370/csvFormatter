@@ -56,7 +56,7 @@ def getPDF():
 
 fileName = askUser()
 
-os.system("pdf2txt.py temp.pdf > temp.txt")
+os.system("pdf2txt.py " + fileName + " > temp.txt")
 
 writeOutput(fileName)
 
